@@ -6,7 +6,6 @@
 <meta charset="utf-8">
 <title>ログイン画面</title>
 </head>
-
 <body>
 	<s:form action="LoginAction">
 		<s:textfield name="name"/>
